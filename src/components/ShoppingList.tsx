@@ -14,7 +14,6 @@ import CompleteOrderButton from './CompleteOrderButton';
 const ShoppingList: React.FC = () => {
   const dispatch = useAppDispatch();
   const { 
-    categories, 
     currentCart, 
     sessionId, 
     loading, 
