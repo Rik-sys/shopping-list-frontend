@@ -1,5 +1,5 @@
-export const API_BASE_URL = 'https://localhost:7066'; 
-//export const API_BASE_URL = 'https://shopping-list-api-[name].azurewebsites.net';
+//export const API_BASE_URL = 'https://localhost:7066'; 
+export const API_BASE_URL = 'https://shopping-list-api.azurewebsites.net/';
 
 export const API_ENDPOINTS = {
   CATEGORIES: '/api/categories',
